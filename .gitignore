@@ -5,7 +5,6 @@
 **/thread-opt
 **/*.pyc
 Cargo.lock
-*.zip
 src/*.sh
 **/*.txt
 .idea
